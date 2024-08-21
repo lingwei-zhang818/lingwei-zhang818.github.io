@@ -18,13 +18,13 @@ Work experience
 * December 2023-Current: Research Assistant
   * Johns Hopkins University
 
-* August 2023-Current: Research Assistant
+* March 2024-Current: Research Assistant
   * Tsinghua University
 
 * July 2022-July 2023: Research Assistant
   * Shanghai Qi Zhi Institute
 
-* December 2020-June 2022: Research Assistant
+* March 2022-June 2022: Research Assistant
   * Tsinghua University
 
 
