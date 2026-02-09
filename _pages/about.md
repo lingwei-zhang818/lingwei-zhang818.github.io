@@ -27,7 +27,7 @@ social: true # includes social icons at the bottom of the page
 
 I am a first-year Ph.D. student in Informatics at The Pennsylvania State University under the supervision of [Dr. Fenglong Ma](https://fenglong-ma.github.io/). Before that, I earned my M.S. in Computer Science at Johns Hopkins University and B.Eng. in Computer Science and Engineering at Tsinghua University, [Yao Class](http://iiis.tsinghua.edu.cn/en/yaoclass/).
 
-My research interests include Multimodal Large Language Models (MLLMs) and multimodal knowledge graphs, with a particular focus on how MLLMs interpret and reason over healthcare data.
+My research focuses on multimodal large language models (MLLMs) and Vision–Language–Action (VLA) models, emphasizing multimodal grounding and reliable decision-making for embodied AI.
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
