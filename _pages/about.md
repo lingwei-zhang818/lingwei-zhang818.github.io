@@ -8,8 +8,8 @@ profile:
   align: right
   image: PHL.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>E348 Westgate Building, State College, PA 16801 </p>
+  # more_info: >
+  #   <p>E348 Westgate Building, State College, PA 16801 </p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -25,7 +25,7 @@ social: true # includes social icons at the bottom of the page
 #   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a first-year Ph.D. student in Informatics at The Pennsylvania State University under the supervision of [Dr. Fenglong Ma](https://fenglong-ma.github.io/). Before that, I earned my M.S. in Computer Science at Johns Hopkins University and B.Eng. in Computer Science and Engineering at Tsinghua University, [Yao Class](http://iiis.tsinghua.edu.cn/en/yaoclass/).
+I am a Ph.D. student in Computer Science at the [Siebel School of Computing and Data Science](https://siebelschool.illinois.edu/) at the University of Illinois Urbana-Champaign. Before that, I earned my M.S. in Computer Science at Johns Hopkins University and B.Eng. in Computer Science and Engineering at Tsinghua University, [Yao Class](http://iiis.tsinghua.edu.cn/en/yaoclass/).
 
 My research focuses on multimodal large language models (MLLMs) and Vision–Language–Action (VLA) models, emphasizing multimodal grounding and reliable decision-making for embodied AI.
 
