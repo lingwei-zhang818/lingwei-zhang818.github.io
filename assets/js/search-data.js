@@ -452,14 +452,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%6C%69%6E%67%77%65%69[%41%54]%70%73%75.%65%64%75", "_blank");
-        },
-      },{
-        id: 'social-linkedin',
-        title: 'LinkedIn',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.linkedin.com/in/lingwei-z-836179296", "_blank");
+          window.open("mailto:%6C%7A%34%38[%41%54]%69%6C%6C%69%6E%6F%69%73.%65%64%75", "_blank");
         },
       },{
         id: 'social-scholar',
